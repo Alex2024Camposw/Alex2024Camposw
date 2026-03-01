@@ -1,17 +1,17 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Hi! I'm Alex, a 18y brazilian developer from SP.I enjoy games and developing them. I'm also a big fan of technology in general. <br>
+  Hi! I'm <strong>Alex</strong>, a 18y brazilian developer from SP.I enjoy games and developing them. I'm also a big fan of technology in general. <br>
   Currently, i am studying computer science in <strong>UNIP</strong> (Universidade Paulista). I studied digital game development and high school at <strong>Etec Prof. Basilides de Godoy</strong>.
   <br> I'm looking for a job! <br>
 </p>
 
 <p align="left">
-  🦄 Languages: Java, JavaScript, Dart, C#, DML, DQL, DCL, Portugol.
+  🦄 Languages: <strong>Java, JavaScript, Dart, C#, DML, DQL, DCL, Portugol.</strong>
 </p>
 
 <p align="left">
-  💼 Tools: Unity, Visual Studio Code and Visual Studio, Eclipse, Git and Github, MYSQL, BRModelo.
+  💼 Tools: <strong>Unity, Visual Studio Code and Visual Studio, Eclipse, Git and Github, MYSQL, BRModelo.</strong>
 </p>
 
 <p align="left">
