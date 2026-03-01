@@ -1,7 +1,9 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
+<img src="https://img.shields.io/static/v1?label=Overview&message=Alex%20Campos%20de%20Oliveira&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
+
 <p align="left"> 
-     Hi! I'm <strong>Alex</strong>, a 18y brazilian developer from SP.I enjoy games and developing them. I'm also a big fan of technology in general. <br>
+     Hi! I'm a 18y brazilian developer from SP. I enjoy games and developing them. I'm also a big fan of technology in general. <br>
      Currently, i am studying computer science in <strong>UNIP</strong> (Universidade Paulista). I studied digital game development and high school at <strong>Etec Prof. Basilides de Godoy</strong>.
   
 💼 Looking for a job! <br>
