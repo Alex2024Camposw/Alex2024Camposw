@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://github.com/user-attachments/assets/167fbfcb-adfe-4839-a3b2-37e29ad52012" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=Alex%20Campos%20de%20Oliveira&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
