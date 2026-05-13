@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/89cedc94-3e3b-4773-bb99-479637d2ca03" alt="Maomao by Pixiv user 57031725 (お) _ The Apothecary Diaries _ Kusuriya no Hitorigoto _ 薬屋のひとりごと" min-width="400px" max-width="400px" width="400px" align="right"/>
+<img src="https://github.com/user-attachments/assets/89cedc94-3e3b-4773-bb99-479637d2ca03" alt="Maomao by Pixiv user 57031725 (お) _ The Apothecary Diaries _ Kusuriya no Hitorigoto _ 薬屋のひとりごと" max-width="400px" width="400px" align="right"/>
 
 <a href="https://github.com/Alex2024Campos">
   <img src="https://img.shields.io/static/v1?label=Personnel%20Account&message=Alex%20Campos%20de%20Oliveira&color=f8efd4&style=for-the-badge&logo=GitHub">
