@@ -38,11 +38,11 @@
 <br>
 
 <p align="center">
-<a href="https://github.com/Alex2024Campos" align="center">
-  <---- Etec Prof. Basilides de Godoy
+<a href="https://github.com/Alex2024Campos">
+  <---- Etec Prof. Basilides de Godoy 
 </a>
      |
-<a href="NA">
+<a href="https://github.com/Alex2026Campos">
 Universidade Paulista ---->
 </a>
 </p>
