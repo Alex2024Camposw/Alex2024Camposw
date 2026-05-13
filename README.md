@@ -1,12 +1,12 @@
-<img src="https://github.com/user-attachments/assets/89cedc94-3e3b-4773-bb99-479637d2ca03" alt="Maomao by Pixiv user 57031725 (お) _ The Apothecary Diaries _ Kusuriya no Hitorigoto _ 薬屋のひとりごと" max-width="400px" width="400px" align="right"/>
+</samp> <img src="https://github.com/user-attachments/assets/89cedc94-3e3b-4773-bb99-479637d2ca03" alt="Maomao by Pixiv user 57031725 (お) _ The Apothecary Diaries _ Kusuriya no Hitorigoto _ 薬屋のひとりごと" max-width="400px" width="400px" align="right"/>
 
 <a href="https://github.com/Alex2024Campos">
   <img src="https://img.shields.io/static/v1?label=Personnel%20Account&message=Alex%20Campos%20de%20Oliveira&color=f8efd4&style=for-the-badge&logo=GitHub">
 </a>
 
 <p align="left"> 
-     Hi! I'm a 18y brazilian developer from SP. I enjoy games and developing them. I'm also a big fan of technology in general. <br>
-     Currently, i am studying computer science in <strong>UNIP</strong> (Universidade Paulista). I studied digital game development and high school at <strong>Etec Prof. Basilides de Godoy</strong>.
+   <samp>  Hi! I'm a 18y brazilian developer from SP. I enjoy games and developing them. I'm also a big fan of technology in general. <br>
+     Currently, i am studying computer science in <strong>UNIP</strong> (Universidade Paulista). I studied digital game development and high school at <strong>Etec Prof. Basilides de Godoy</strong>. </samp>
 <br>
   
 ### ⌨️ Languages
@@ -39,10 +39,10 @@
 
 <p align="center">
 <a href="https://github.com/Alex2024Campos">
-  <---- Etec Prof. Basilides de Godoy 
+  <samp> <---- Etec Prof. Basilides de Godoy  </samp>
 </a>
      |
 <a href="https://github.com/Alex2026Campos">
-Universidade Paulista ---->
+<samp> Universidade Paulista ----> </samp>
 </a>
 </p>
