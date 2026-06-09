@@ -18,14 +18,14 @@
 ### <p align="center"> 🖥️  Tools and technologies </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=plastic&logo=visualstudiocode&logoColor=white"/> <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=plastic&logo=visualstudio&logoColor=white"/> <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=plastic&logo=androidstudio&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/Flutter-02569B?style=plastic&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white"/>  <img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=plastic&logo=visualstudiocode&logoColor=white"/> <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=plastic&logo=visualstudio&logoColor=white"/> <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=plastic&logo=androidstudio&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/Flutter-02569B?style=plastic&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white"/>  <img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white"/> 
   </p>
 
 
 ### <p align="center"> 📚 Studying . . . </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=openjdk&logoColor=white"> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=plastic&logo=kotlin&logoColor=white"> <img src="https://img.shields.io/badge/-Firebase-FFA611?style=flat&logo=firebase&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=openjdk&logoColor=white"> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=plastic&logo=kotlin&logoColor=white"> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=plastic&logo=firebase&logoColor=black"/> <img src="https://img.shields.io/badge/Luau-00A2FF?style=plastic&logo=robloxstudio&logoColor=white"/>
    </p>
    
 
@@ -33,11 +33,11 @@
 ### <p align="center"> 📞 Contacts </p>
  <p align="center">
   <a href="mailto:alex2019campos@gmail.com" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/>
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=plastic&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/>
   </a>
   <br>
   <a href="https://www.linkedin.com/in/alex-campos-de-oliveira-349139349" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=plastic&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/>
   </a>
   </p>
 
