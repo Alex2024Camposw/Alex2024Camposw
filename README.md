@@ -40,21 +40,14 @@
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=plastic&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/>
   </a>
   </p>
-
-
-
-<p align="center">
-<img src="https://i.pinimg.com/originals/d2/b6/88/d2b688357b0c20cebde3745a3043108d.gif" width="250px" height="250px"/>
-</p>
-
 <br>
 
 <p align="center">
 <a href="https://github.com/Alex2024Campos">
-  <samp> <---- Etec Prof. Basilides de Godoy  </samp>
+  <samp> Etec Prof. Basilides de Godoy  </samp>
 </a>
      |
 <a href="https://github.com/Alex2026Campos">
-<samp> Universidade Paulista ----> </samp>
+<samp> Universidade Paulista </samp>
 </a>
 </p>
